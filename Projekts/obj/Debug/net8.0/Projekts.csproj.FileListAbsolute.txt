@@ -1,0 +1,14 @@
+d:\Visual Studio Code\Programrīki\Projekts\bin\Debug\net8.0\Projekts.exe
+d:\Visual Studio Code\Programrīki\Projekts\bin\Debug\net8.0\Projekts.deps.json
+d:\Visual Studio Code\Programrīki\Projekts\bin\Debug\net8.0\Projekts.runtimeconfig.json
+d:\Visual Studio Code\Programrīki\Projekts\bin\Debug\net8.0\Projekts.dll
+d:\Visual Studio Code\Programrīki\Projekts\bin\Debug\net8.0\Projekts.pdb
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.AssemblyInfoInputs.cache
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.AssemblyInfo.cs
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.csproj.CoreCompileInputs.cache
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.dll
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\refint\Projekts.dll
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.pdb
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\Projekts.genruntimeconfig.cache
+d:\Visual Studio Code\Programrīki\Projekts\obj\Debug\net8.0\ref\Projekts.dll
